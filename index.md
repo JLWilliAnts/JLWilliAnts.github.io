@@ -71,5 +71,26 @@ My research focus is ant taxonomy and systematics. I am currently resolving diff
  1.	Mai, B., **Williams, J.L.**, Lucky, A. (2020). Imaging ants in the genus *Nylanderia* (Hymenoptera: Formicidae) for two-dimensional geometric morphometric analysis. University of Florida 2020 Spring Virtual Undergraduate Research Symposium. 
  2.	**Williams, J.L.**, Lucky, A. (2017). Integrating micro-CT into taxonomy to characterize *Nylanderia* crazy ants (Hymenoptera: Formicidae). Entomological Society of America National Meeting, Denver, Colorado, USA. November 5–8.
 
+## Teaching
+
+### Instructor of Record
+
+* 2020: **Insect Classification** (ENY 4161/6166), University of Florida
+
+### Graduate Teaching Experience
+
+* 2018 – 2019: **Invasive Ant Boot Camp** (ENY 4905/6905), University of Florida	
+ * **Responsibilities:** Prepare individual reference collections and materials; provide guidance for use of identification tools such as dichotomous keys; demonstrate insect collecting techniques.
+* 2017 – 2019: **Insect Classification** (ENY 4161/6166), University of Florida
+ * **Responsibilities:** Manage and organize insect teaching collection; respond to student inquiries; prepare insect identification quizzes and exams; grade assignments, insect collections, and exams.
+* 2016: **Principles of Entomology Lab** (ENY 3005/5006), University of Florida
+ * **Responsibilities:** Lead laboratory assignments; respond to student inquiries; prepare insect identification quizzes and exams; grade assignments, insect collections, and exams.
+* 2016: **Introduction to Ecology and Evolution Lab** (BIOL 202L), Towson University
+ * **Responsibilities:** Prepare and give pre-lab presentations; lead laboratory assignments; respond to student inquiries; grade lab reports, assignments, and exams.
+* 2013 – 2015: **Principles of Biology Lab** (BIOL 120L), Towson University
+ * **Responsibilities:** Prepare and give pre-lab presentations; lead laboratory assignments; respond to student inquiries; grade lab reports.
+
+
+
 
 
