@@ -25,7 +25,7 @@ My research focus is ant taxonomy and systematics. I am currently resolving diff
 
 ### Scholarships and Awards
 
-* 2020. **Research Grant:** Society of Systematic Biologists Graduate Student Research Award (SSB GSRA) – **$3,000**
+* 2020 **Research Grant:** Society of Systematic Biologists Graduate Student Research Award (SSB GSRA) – **$3,000**
 * 2019. **Travel Grant:** Systematics, Evolution, and Biodiversity Student Research Travel Award (SysEB SRTA), Entomological Society of America – **$1,500**
 * 2018. **Travel Grant:** Office of Research, University of Florida – **$400**
 * 2018. **Travel Grant:** Graduate Student Council, University of Florida – **$350**
