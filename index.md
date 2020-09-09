@@ -13,14 +13,35 @@ My research focus is ant taxonomy and systematics. I am currently resolving diff
 
 ### Education
 
-* 2016 – 2020: **Ph.D. Entomology** (in progress), University of Florida
+* 2016 – 2020. **Ph.D. Entomology** (in progress), University of Florida
   * Advisor: Dr. Andrea Lucky
   * GPA: 3.95
-* 2013 – 2016: **M.S. Biology**, Towson University
+* 2013 – 2016. **M.S. Biology**, Towson University
   * Advisor: Dr. John S. LaPolla
   * GPA: 3.885
-* 2004 – 2008: **B.S. Zoology**, Delaware Valley University
+* 2004 – 2008. **B.S. Zoology**, Delaware Valley University
 
 ## Research
 
 ### Scholarships and Awards
+
+* 2020. **Research Grant:** Society of Systematic Biologists Graduate Student Research Award (SSB GSRA) – **$3,000**
+* 2019. **Travel Grant:** Systematics, Evolution, and Biodiversity Student Research Travel Award (SysEB SRTA), Entomological Society of America – **$1,500**
+* 2018. **Travel Grant:** Office of Research, University of Florida – **$400**
+* 2018. **Travel Grant:** Graduate Student Council, University of Florida – **$350**
+* 2017. **Travel Grant:** Graduate Student Council, University of Florida – **$350**
+* 2016 – 2021. **Graduate Teaching Assistantship:** University of Florida – **$23,000/year**
+* 2016. **Travel Grant:** Entomology & Nematology Student Organization, University of Florida – **$500**
+* 2014. **Travel Grant:** Graduate Student Association, Towson University – **$420**
+* 2014. **Travel Grant:** Graduate Student Association, Towson University – **$310**
+* 2013 – 2016. **Graduate Teaching Assistantship:** Towson University – **$12,000/year**
+
+### Publications
+
+
+
+
+
+
+
+
