@@ -13,7 +13,7 @@ My research focus is ant taxonomy and systematics. I am currently resolving diff
 
 ### Education
 
-* 2016 – 2020: **Ph.D. Entomology** (in progress), University of Florida
+* 2016 – 2021: **Ph.D. Entomology** (in progress), University of Florida
   * Advisor: Dr. Andrea Lucky
   * GPA: 3.95
 * 2013 – 2016: **M.S. Biology**, Towson University
