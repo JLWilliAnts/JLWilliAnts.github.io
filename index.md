@@ -90,7 +90,49 @@ My research focus is ant taxonomy and systematics. I am currently resolving diff
 * 2013 – 2015: **Principles of Biology Lab** (BIOL 120L), Towson University
  * **Responsibilities:** Prepare and give pre-lab presentations; lead laboratory assignments; respond to student inquiries; grade lab reports.
 
+## Service
 
+### Service Activities
 
+* 2018 – 2020:	**Entomology Games Team**, 2019 National Champion, Entomology & Nematology Department, University of Florida 
+* 2017 – 2018:	**Treasurer**, Entomology & Nematology Student Organization, Entomology & Nematology Department, University of Florida
 
+### Professional Meetings and Workshops
 
+* 2020:	**Center for Systematic Entomology Meeting**, Gainesville, Florida, USA. January 18.
+* 2020:	**Society of Systematic Biologists Meeting, Systematics in the Swamp**, Gainesville, Florida, USA. January 3–6.
+* 2019:	**Entomological Society of America National Meeting**, St. Louis, Missouri, USA. November 17–20.
+* 2019: **Invasive Ant Boot Camp**, University of Florida, Gainesville, Florida, USA. July 22–24.
+* 2019:	**Entomological Society of America Southeastern Branch Meeting**, Mobile, Alabama, USA. March 3–6.
+* 2018:	**Ant Course 2018**, Nouragues Research Station, French Guiana. August 22–September 1.
+* 2018:	**Invasive Ant Boot Camp**, University of Florida, Gainesville, Florida, USA. July 11–13
+* 2018:	**Data Carpentry Genomics Workshop**, National Museum of Natural History, Washington, DC, USA. June 11–13.
+* 2018:	**National Conference on Urban Entomology**, Cary, North Carolina, USA. May 21–23.
+* 2017:	**Entomological Society of America National Meeting**, Denver, Colorado, USA. November 5–8.
+* 2017:	**McGuire Center Phylogenomics Workshop**, Gainesville, Florida, USA. September 6–8.
+* 2017:	**Invasive and Pest Ant Conference**, Mobile, Alabama, USA. May 16–19.
+* 2016:	**25th Annual International Congress of Entomology Meeting**, Orlando, Florida, USA. September 25–30.
+* 2016:	**17th Annual CALS Teaching Enhancement Symposium**, Gainesville, Florida, USA. August 16.
+* 2015:	**Entomological Society of America Eastern Branch Meeting**, Rehoboth, Delaware, USA. March 14–17.
+* 2014:	**Social Insects in the Northeast Regions Meeting**, Ithaca, New York, USA. November 8–9.
+* 2014:	**Social Insects in the Northeast Regions Meeting**, Philadelphia, Pennsylvania, USA. May 28–29.
+
+### Field Expeditions
+
+* 2018: Nouragues Research Station, French Guiana – 2 weeks
+* 2016: Mutinondo Wilderness, Zambia – 2 weeks
+
+### Museum Research
+
+* 2019: Bohart Museum of Entomology, Davis, California, USA
+* 2017, 2018: Florida State Collection of Arthropods, Gainesville, Florida, USA
+* 2014, 2017 – 2019: National Museum of Natural History, Washington, DC, USA
+* 2014: American Museum of Natural History, New York, New York, USA
+
+### Professional Affiliations
+
+* Entomological Society of America
+* Florida Entomological Society
+* International Society of Hymenopterists
+* Society of Systematic Biologists
+* The Systematics Association
