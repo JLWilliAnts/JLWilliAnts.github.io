@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/JLWilliAnts/JLWilliAnts.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Entomology & Nematology Department
+University of Florida
+1881 Natural Area Drive, Gainesville, Florida 32611-0620
+Phone: (443) 844-2697
+Email: jwilli81@ufl.edu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Academic Overview
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research focus is ant taxonomy and systematics. I am currently resolving difficult taxonomic and evolutionary questions involving the global radiation of the genus Nylanderia, which includes over 130 described species across the globe and hundreds more unknown to science. Nylanderia species are among the most common ants worldwide and more than a dozen of them may threaten biodiversity, human productivity, and health as exotic or invasive pests. My training began with museum collections-based research and analysis of morphological data. I have since integrated other tools into my skillset, including genome-scale molecular phylogenetics, bioinformatics, and micro-computed tomography (micro-CT).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JLWilliAnts/JLWilliAnts.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Education
