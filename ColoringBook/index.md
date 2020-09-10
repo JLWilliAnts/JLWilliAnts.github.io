@@ -28,7 +28,7 @@
 
 [Ghost Ant, *Tapinoma melanocephalum*](Slide13.jpg)
 
-<img align="left" width="100" height="100" src="Slide1.jpg"> 
+<img align="left" width="100" height="100" src="Slide1.pdf"> 
 <img align="middle" width="100" height="100" src="Slide2.jpg"> 
 <img align="right" width="100" height="100" src="Slide3.jpg">
 <img align="left" width="100" height="100" src="Slide4.jpg"> 
