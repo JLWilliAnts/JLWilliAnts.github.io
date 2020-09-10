@@ -1,4 +1,4 @@
-# Jason L. Williams, M.S.
+# Jason L. Williams, M.S., Ph.D. candidate
 
 ## [About Me](https://jlwilliants.github.io/AboutMe/)
 ## [Curriculum Vitae](https://jlwilliants.github.io/CurriculumVitae/)
