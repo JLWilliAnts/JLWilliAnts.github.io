@@ -1,7 +1,7 @@
 # Jason L. Williams, M.S.
-Ph.D. candidate
-Entomology and Nematology Department
-University of Florida
+- Ph.D. candidate
+- Entomology and Nematology Department
+- University of Florida
 
 ## [About Me](https://jlwilliants.github.io/AboutMe/)
 ## [Curriculum Vitae](https://jlwilliants.github.io/CurriculumVitae/)
