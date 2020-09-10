@@ -1,6 +1,4 @@
-<img align="center" src="JLW5.jpg">
-
-# Curriculum Vitae
+# Curriculum Vitae <img align="right" width="360" height="480" src="JLW5.jpg">
 
 * University of Florida, Entomology & Nematology Department
 * 1881 Natural Area Drive, Gainesville, Florida 32611-0620
