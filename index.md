@@ -2,7 +2,7 @@
 
 Ph.D. candidate
 
-Entomology and Nematology Department
+Entomology and Nematology Department <img align="right" width="100" height="100" src="JLW9.jpg">
 
 University of Florida
 
