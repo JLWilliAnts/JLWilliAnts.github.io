@@ -28,18 +28,18 @@
 
 [Ghost Ant, *Tapinoma melanocephalum*](T_melanocephalum.JPG)
 
-<img align="left" width="100" height="100" src="B_obscurior.JPG"> 
-<img align="middle" width="100" height="100" src="L_humile.JPG"> 
-<img align="right" width="100" height="100" src="M_floricola.JPG">
-<img align="left" width="100" height="100" src="N_fulva.JPG"> 
-<img align="middle" width="100" height="100" src="N_fulva_queen.JPG"> 
-<img align="right" width="100" height="100" src="P_gracilis.JPG">
-<img align="left" width="100" height="100" src="P_longicornis.JPG"> 
-<img align="middle" width="100" height="100" src="P_megacephala_major.JPG"> 
-<img align="right" width="100" height="100" src="P_megacephala_minor.JPG">
-<img align="left" width="100" height="100" src="P_megacephala_queen.JPG"> 
-<img align="middle" width="100" height="100" src="S_invicta.JPG"> 
-<img align="right" width="100" height="100" src="T_difficilis.JPG">
-<img align="left" width="100" height="100" src="T_melanocephalum.JPG">
+<img src="B_obscurior.JPG"> 
+<img src="L_humile.JPG"> 
+<img src="M_floricola.JPG">
+<img src="N_fulva.JPG"> 
+<img src="N_fulva_queen.JPG"> 
+<img src="P_gracilis.JPG">
+<img src="P_longicornis.JPG"> 
+<img src="P_megacephala_major.JPG"> 
+<img src="P_megacephala_minor.JPG">
+<img src="P_megacephala_queen.JPG"> 
+<img src="S_invicta.JPG"> 
+<img src="T_difficilis.JPG">
+<img src="T_melanocephalum.JPG">
 
 # [Home](https://jlwilliants.github.io/)
