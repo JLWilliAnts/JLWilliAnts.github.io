@@ -1,8 +1,8 @@
-# Jason L. Williams, M.S.
+# Jason L. Williams, M.S. <img align="right" width="400" height="400" src="JLW9.jpg">
 
 Ph.D. candidate
 
-Entomology and Nematology Department <img align="right" width="100" height="100" src="JLW9.jpg">
+Entomology and Nematology Department 
 
 University of Florida
 
