@@ -1,4 +1,4 @@
-# Jason L. Williams, M.S. <img align="right" width="480" height="360" src="JLW9.jpg">
+# Jason L. Williams, M.S. <img align="left" width="480" height="360" src="JLW9.jpg">
 
 Ph.D. candidate
 
