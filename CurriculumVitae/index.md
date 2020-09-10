@@ -1,3 +1,5 @@
+<img align="center" src="JLW5.jpg">
+
 # Curriculum Vitae
 
 * University of Florida, Entomology & Nematology Department
