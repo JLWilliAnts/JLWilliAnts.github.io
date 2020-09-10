@@ -1,4 +1,9 @@
 
+
+<p align="center">
+  <img src="P_gracilis_banner.jpg">
+</p>
+
 # [The Invasive Ant Coloring Book Download (.pptx)](Invasive_Ant_Coloring_book.pptx)
 
 ## Individual Pages
