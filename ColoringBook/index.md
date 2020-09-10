@@ -2,31 +2,31 @@
 # [The Invasive Ant Coloring Book Download (.pptx)](Invasive_Ant_Coloring_book.pptx)
 
 ## Individual Pages
-[Obscure Rover Ant, *Brachymyrmex obscurior*](Slide1.TIF)
+[Obscure Rover Ant, *Brachymyrmex obscurior*](Slide1.jpg)
 
-[Argentine Ant, *Linepithema humile*](Slide2.TIF)
+[Argentine Ant, *Linepithema humile*](Slide2.jpg)
 
-[Bicolored Trailing Ant, *Monomorium floricola*](Slide3.TIF)
+[Bicolored Trailing Ant, *Monomorium floricola*](Slide3.jpg)
 
-[Tawny Crazy Ant, *Nylanderia fulva*](Slide4.TIF)
+[Tawny Crazy Ant, *Nylanderia fulva*](Slide4.jpg)
 
-[Tawny Crazy Ant, *Nylanderia fulva* (queen)](Slide5.TIF)
+[Tawny Crazy Ant, *Nylanderia fulva* (queen)](Slide5.jpg)
 
-[Elongate Twig Ant, *Pseudomyrmex gracilis*](Slide6.TIF)
+[Elongate Twig Ant, *Pseudomyrmex gracilis*](Slide6.jpg)
 
-[Longhorn Crazy Ant, *Paratrechina longicornis*](Slide7.TIF)
+[Longhorn Crazy Ant, *Paratrechina longicornis*](Slide7.jpg)
 
-[African Big-Headed Ant, *Pheidole megacephala* (major)](Slide8.TIF)
+[African Big-Headed Ant, *Pheidole megacephala* (major)](Slide8.jpg)
 
-[African Big-Headed Ant, *Pheidole megacephala* (minor)](Slide9.TIF)
+[African Big-Headed Ant, *Pheidole megacephala* (minor)](Slide9.jpg)
 
-[African Big-Headed Ant, *Pheidole megacephala* (queen)](Slide10.TIF)
+[African Big-Headed Ant, *Pheidole megacephala* (queen)](Slide10.jpg)
 
-[Red-Imported Fire Ant, *Solenopsis invicta*](Slide11.TIF)
+[Red-Imported Fire Ant, *Solenopsis invicta*](Slide11.jpg)
 
-[White-Footed Ant, *Technomyrmex difficilis*](Slide12.TIF)
+[White-Footed Ant, *Technomyrmex difficilis*](Slide12.jpg)
 
-[Ghost Ant, *Tapinoma melanocephalum*](Slide13.TIF)
+[Ghost Ant, *Tapinoma melanocephalum*](Slide13.jpg)
 
 <img align="left" width="100" height="100" src="Slide1.jpg"> 
 <img align="middle" width="100" height="100" src="Slide2.jpg"> 
