@@ -11,3 +11,4 @@ University of Florida
 ## [Invasive Ant Coloring Book](https://jlwilliants.github.io/ColoringBook/)
 ## [Photos (Flickr album)](https://www.flickr.com/photos/140139359@N06/)
 
+<a href="https://twitter.com/JLWilliAnts?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JLWilliAnts</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
