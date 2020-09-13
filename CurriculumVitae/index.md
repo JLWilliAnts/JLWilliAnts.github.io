@@ -3,8 +3,8 @@
 * University of Florida, Entomology & Nematology Department
 * 1881 Natural Area Drive, Gainesville, Florida 32611-0620
 * Email: 
- * jwilli81@ufl.edu
- * jleewill@gmail.com
+  * jwilli81@ufl.edu
+  * jleewill@gmail.com
 
 ## Academic Overview
 
