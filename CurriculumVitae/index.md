@@ -42,7 +42,7 @@ My research focus is ant taxonomy and systematics. I am currently resolving diff
 * **Peer-reviewed Scholarly Publications:**
  1.	Lucky, A., Atchison, R.A., Ohyama, L, Zhang, Y.M., **Williams, J.L.**, Pinkney IV, J.L., Clancy, K.L., Nielsen, A.N., Lippi, C.A. (2020). Myrmecology, Gender, and Geography: Changing demographics of a research community over thirty years. *Myrmecol. News.*
  2.	**Williams, J.L.**, Lucky, A. (2020). Non-native and invasive *Nylanderia* crazy ants (Hymenoptera: Formicidae) of the world: Integrating genomics to enhance taxonomic preparedness. *Ann. Ent. Soc. Am.*, 113(4): 318–336.
- 3.	**Williams, J.L.**, Zhang, Y.M., Lloyd, M.W., LaPolla, J.S., Schultz, T.R., Lucky, A. (2020). Global domination by crazy ants: Phylogenomics reveals biogeographical history and invasive species relationships in the genus *Nylanderia* (Hymenoptera: Formicidae). *Syst. Ent.*
+ 3.	**Williams, J.L.**, Zhang, Y.M., Lloyd, M.W., LaPolla, J.S., Schultz, T.R., Lucky, A. (2020). Global domination by crazy ants: Phylogenomics reveals biogeographical history and invasive species relationships in the genus *Nylanderia* (Hymenoptera: Formicidae). *Syst. Ent.*, 45:  730–744. 
  4.	Zhang, Y.M., **Williams, J.L.**, Lucky, A. (2019). Understanding UCEs: A comprehensive primer on using ultraconserved elements for arthropod phylogenomics. *Insect Syst. Div.*, 3 (5): 3; 1–12.
  5.	**Williams, J.L.**, LaPolla, J.S. (2018). Two new *Prenolepis* species (Hymenoptera: Formicidae) from Indomalaya and Australasia, with a redescription of *P. dugasi* (comb. rev.) from Vietnam. *Zootaxa*, 4441: 171–180.
  6.	LaPolla, J.S., **Williams, J.L.**, Fan, E. (2017). *Acropyga oreithauma* (Hymenoptera: Formicidae), a new species from Panama. *BioOne* 143 (1): 1–5.
