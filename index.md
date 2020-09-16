@@ -1,6 +1,6 @@
 <img align="center" src="JLW-logo-clean.png"> 
 
-# Jason L. Williams, M.S. <img align="right" width="440" height="330" src="JLW9.jpg">
+# Jason L. Williams, M.S. <img align="right" width="291" height="207" src="JLW9.jpg">
 
 <a href="https://twitter.com/JLWilliAnts?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JLWilliAnts</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
