@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="291" height="207" "JLW-logo-clean.png">
+  <img width="291" height="207" src="JLW-logo-clean.png">
 </p>
 
 # Jason L. Williams, M.S. <img align="right" width="480" height="360" src="JLW9.jpg">
