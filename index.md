@@ -1,4 +1,4 @@
-<img align="center" src="JLW-logo-clean.png"> 
+<img align="center" width="291" height="207" src="JLW-logo-clean.png"> 
 
 # Jason L. Williams, M.S. <img align="right" width="291" height="207" src="JLW9.jpg">
 
