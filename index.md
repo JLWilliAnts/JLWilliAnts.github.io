@@ -2,7 +2,7 @@
   <img width="291" height="207" src="JLW-logo-clean.png">
 </p>
 
-# Jason L. Williams, M.S. <img align="right" width="480" height="360" src="JLW9.jpg">
+# Jason L. Williams, M.S. <img align="right" width="360" height="270" src="JLW9.jpg">
 
 <a href="https://twitter.com/JLWilliAnts?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JLWilliAnts</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
