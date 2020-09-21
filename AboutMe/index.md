@@ -10,7 +10,7 @@ Nowadays, in addition to collecting supplies, I sometimes also take a camera int
 
 When I am not outdoors or working, I also enjoy spending my free time **playing tabletop and video games**. 
 
-I am also a **tech geek** and cannot resist powerful computers and fancy gadgets.
+**I am also a tech geek** and cannot resist powerful computers and fancy gadgets.
 
 More to come...
 
