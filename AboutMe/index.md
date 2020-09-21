@@ -8,7 +8,7 @@ I am and always have been a taxonomist at heart. **Collecting and curating insec
 
 Nowadays, in addition to collecting supplies, I sometimes also take a camera into the field because **I am an amateur photographer**. I don't have a whole lot of fancy equipment, but I got my first and only DSLR in 2009. Perhaps someday soon I will invest in new equipment.
 
-When I am not outdoors or working, I also enjoy spending my free time **playing tabletop and video games**. 
+When I am not outdoors, I also enjoy spending my free time **playing tabletop and video games**. 
 
 **I am also a tech geek** and cannot resist powerful computers and fancy gadgets.
 
